@@ -31,7 +31,7 @@ h1{
     font-size: 450%;
 }
 
-#bo{
+.bo{
     font-size: 200%;
     color: gray;
 }
@@ -92,4 +92,25 @@ h1{
 .rr{
     display: inline-block;
     width: 30%;
+}
+
+footer{
+    padding-left: 5px;
+}
+
+.articolo{
+    font-size: 200%;
+    color:lightgray;
+    background-image: url(/img/monitor.jpg);
+    background-size: cover;
+    width: 30%;
+    padding-bottom: 300px;
+}
+.articoloo{
+    font-size: 200%;
+    color:lightgray;
+    background-image: url(/img/graph.jpg);
+    background-size: cover;
+    width: 30%;
+    padding-bottom: 300px;
 }
