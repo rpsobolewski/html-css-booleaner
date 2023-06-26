@@ -62,7 +62,7 @@ h1{
 }
 
 .maintxt{
-    font-size: 200%;
+    font-size: 180%;
 }
 
 .yellow{
@@ -70,22 +70,26 @@ h1{
 }
 
 .firstrow{
+    color: white;
     background-color: rgb(107, 142, 219);
 }
 
 .darkrow{
     background-color: rgb(170, 210, 243);
+    
 }
 
 .rl{
     display: inline-block;
     width: 30%;
     text-align: center;
+   
 }
 
 .rc{
     display: inline-block;
     width: 30%;
+    
     text-align: center;
 }
 
