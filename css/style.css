@@ -39,9 +39,50 @@ h1{
     color: gray;
 }
 
+#phodes{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.segment{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
 .tim{
     width: 51.5%;
 }
 .timo{
     width:44%;
+}
+
+.maintxt{
+    font-size: 200%;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+.firstrow{
+    background-color: rgb(61, 110, 216);
+}
+
+.darkrow{
+    background-color: rgb(70, 226, 253);
+}
+
+.rl{
+    display: inline-block;
+    width: 30%;
+}
+
+.rc{
+    display: inline-block;
+    width: 30%;
+}
+
+.rr{
+    display: inline-block;
+    width: 30%;
 }
