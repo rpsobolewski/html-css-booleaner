@@ -4,16 +4,37 @@
     box-sizing: border-box;
 }
 
+main{
+    padding-left: 5px;
+}
+
 header{
     background-image: url(/img/pattern.png); 
     background-color: rgb(0, 183, 255);
-    padding-top: 35px;
+    padding-top: 40px;
     padding-bottom: 15px;
     
 }
 
 #logo{
-    width: 300px;
+    width: 350px;
     padding-left: 6px;
 
+}
+
+h1{
+    font-size: 450%;
+}
+
+#bo{
+    font-size: 200%;
+    color: gray;
+}
+
+#boo{
+     color: rgb(0, 174, 255);
+}
+
+#data{
+    color: gray;
 }
